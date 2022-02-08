@@ -4,7 +4,7 @@ Basic C++ Data Logger
 
 
 By: J. Krause, Robotics and Motion lab, The University of Illinois at Chicago
-Email: JKraus3@uic.edu \n
+Email: JKraus3@uic.edu 
 
 I tried to keep the code here as basic as possible. It should function with C++11 and possibly earlier.
 Tested and coded for Ubuntu 20.04 with 5.4.93-rt51 real time kernel.
