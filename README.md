@@ -10,6 +10,7 @@ I tried to keep the code here as basic as possible. It should function with C++1
 Tested and coded for Ubuntu 20.04 with 5.4.93-rt51 real time kernel.
 
 Purpose: Quick data logger with highc capacity.
+
 Function:
     Call the following functions at setup:
         SetOutputFilename("name");              //Set the output filename.
