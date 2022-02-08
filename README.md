@@ -34,5 +34,4 @@ Operation:
 
 For operation example, view the test() function in the Logger.cpp class file.
 
-This software is unlicensed and free to use or modify. I would appreciate a mention if it helps anyone out, tho.
 */
