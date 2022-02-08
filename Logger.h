@@ -1,10 +1,6 @@
 #ifndef LOGGER_H
 #define LOGGER_H
 
-#include <stdint.h>
-#include <string>
-#include <vector>
-
 /*
 By: J. Krause, Robotics and Motion lab, The University of Illinois at Chicago
 Email: JKraus3@uic.edu
@@ -39,6 +35,10 @@ For operation example, view the test() function in the Logger.cpp class file.
 
 This software is unlicensed and free to use or modify. I would appreciate a mention if it helps anyone out, tho.
 */
+
+#include <stdint.h>
+#include <string>
+#include <vector>
 
 class Logger
 {
